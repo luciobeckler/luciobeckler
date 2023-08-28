@@ -14,5 +14,5 @@ Sou movido pela criatividade e pela paixão por resolver desafios. Minha abordag
 Se você está em busca de um desenvolvedor front-end comprometido, criativo e apaixonado por programação, estou sempre aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos!
 
 ### Entre em Contato
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%BAcio-beckler-0827181a0/)
 

@@ -1,11 +1,7 @@
 ## Olá, me chamo Lúcio Beckler e seja bem-vindo ao meu GitHub! 👋
 
 ### Sobre mim
-Sou um entusiasta de programação e apaixonado por tecnologia, com foco especial em desenvolvimento front-end. Minha jornada no mundo da programação começou durante meus estudos como técnico em eletrônica no CEFET-MG, onde tive meu primeiro contato com a magia do código. Desde então, tenho investido meu tempo e energia no aprimoramento das minhas habilidades.
-
-### Formação e Atualização
-- 🎓 Estou atualmente cursando Sistemas de Informação no IFMG-Sabará, buscando expandir meu conhecimento e aplicá-lo em projetos inovadores.
-- 🎓 Sou formado em Técnico em Eletrônica pelo CEFET-MG, onde dei meus primeiros passos no mundo da programação e desenvolvi uma base sólida em resolução de problemas.
+Sou estudante de Sistemas de Informação e apaixonado por tecnologia, com foco especial em desenvolvimento front-end. Minha jornada no mundo da programação começou durante meus estudos como técnico em eletrônica no CEFET-MG, onde tive meu primeiro contato com a temida linguagem Assembly, após isso cursei Engenharia de Controle e Automação pelo IFMG e foi lá que eu realmente me apaixonei pela flexibilidade e diversidade de soluções que são possíveis implementar através da programação, foi então que mudei de curso dentro da própria instituição e agora estou cursando Sistemas de Informação pela federal de Sabará.
 
 ### Habilidades e Tecnologias
 - 💻 Experiência sólida em JavaScript, React e React Native, permitindo-me criar interfaces interativas e amigáveis.

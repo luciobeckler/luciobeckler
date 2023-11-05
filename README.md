@@ -7,7 +7,7 @@ Trabalhar em colaboração é parte fundamental da minha abordagem. Adoro mergul
 
 Meus principais hobbies são correr, andar de bicicleta, praticar Muay Thai, jogar futebol e desfrutar da rica vida noturna de Belo Horizonte. 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciobeckler&show_icons=true&theme=radical)
 
 ### Vamos Colaborar!
 Se você está em busca de um desenvolvedor front-end comprometido, criativo e apaixonado por programação, estou sempre aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos!

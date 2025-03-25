@@ -1,25 +1,34 @@
-## Olá, me chamo Lúcio Beckler e seja bem-vindo ao meu GitHub! 👋
+# 👋 Hello! Welcome to my Github profile.
+🔭 I’m currently a full-stack developer currently working on a project for an internal system to meet the needs of the Civil Defense of Sabará. 
 
-### Sobre mim
-Tenho 22 anos, sou estudante de Sistemas de Informação e apaixonado por tecnologia, com foco especial em desenvolvimento front-end utilizando JavaScript/TypeScript e React, mas estou sempre em busca de novos conhecimentos. Combinando minha criatividade e habilidades técnicas, tenho a missão de transformar ideias em interfaces interativas e envolventes. 
+🌱 I’m currently improving my skills in full-stack web development using C#, .NET, Angular, and Ionic, enhancing my English proficiency, and constantly refining my code through reading.
 
-Trabalhar em colaboração é parte fundamental da minha abordagem. Adoro mergulhar em equipes multidisciplinares, compartilhar ideias e contribuir para soluções para os desafios dos quais me envolvo.
+👯 I’m looking to collaborate on projects and companies where I can demonstrate and enhance my web development skills.
 
-Meus principais hobbies são correr, andar de bicicleta, praticar Muay Thai, jogar futebol e desfrutar da rica vida noturna de Belo Horizonte. 
+⚡ Fun fact: I practice Muay Thai, a martial art that teaches a lot about patience, discipline, and willpower.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciobeckler&show_icons=true&theme=radical)
 
-### Vamos Colaborar!
-Se você está em busca de um desenvolvedor front-end comprometido, criativo e apaixonado por programação, estou sempre aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos!
+## Habilidades
+<img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /><img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /><img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /><img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /><img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /><img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original-wordmark.svg" /><img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" /><img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /><img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" /><img width="75" height="75" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+            
+
+##  📩Let's talk!
+
+<div>
+<a href="https://www.linkedin.com/in/luciobeckler/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "mailto:luciobecklerp@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/l%C3%BAcio-beckler-0827181a0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-### Habilidades e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
-
+</div>
 

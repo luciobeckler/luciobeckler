@@ -8,7 +8,7 @@
 ⚡ Fun fact: I practice Muay Thai, a martial art that teaches a lot about patience, discipline, and willpower.
 
 
-## Habilidades
+### 🔧 Tech Stack
 <img width="75" height="75" style="margin: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img width="75" height="75" style="margin: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img width="75" height="75" style="margin: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img width="75" height="75" style="margin: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
@@ -21,20 +21,8 @@
 <img width="75" height="75" style="margin: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-            
 
-##  📩Let's talk!
+###  📩 Let's talk!
 
 <div>
 <a href="https://www.linkedin.com/in/luciobeckler/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
